@@ -1,0 +1,69 @@
+body > header > nav > ul > li.nav {
+	display: inline;
+  }
+
+ul li.nav { 
+	text-align: center; 
+	padding: 13px;
+	background-color: rgba(0);
+}
+
+
+ul li.nav {
+	font-size:25px;
+	margin:26px;
+	text-align: center;
+	width:100%;
+	margin:0px;
+
+	
+}
+
+p.uvod {
+	font-size:35px;
+	color: yellow;
+}
+
+section.fir {
+	padding:125px;
+	margin:0px;
+
+	
+}
+
+h1 {
+	text-align: center;
+	font-size: 45px;
+	color: yellow;
+
+}
+
+section.sec {
+	font-size: 25px;
+	color:yellow;
+	padding: 100px;
+	background-size: cover;
+	 background-color: rgba(0, 0, 0, 0.5);
+	
+
+}
+
+header {
+	padding:25px;
+	text-align: center;
+	font-size:25px;
+	margin:0px;
+	color:yellow;
+	 background-color: rgba(0, 0, 0, 0.5);
+}
+
+section.pic {
+	text-align: center;
+}
+
+footer {
+	background-color: rgba(0,0,0,0.5);
+	color:yellow;
+	padding:7px;
+}
+
